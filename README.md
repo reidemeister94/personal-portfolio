@@ -1,6 +1,6 @@
 <p  align="center">
 
-Customized portfolio website, starting from the codebase of <a  href="https://brittanychiang.com"  target="_blank">brittanychiang.com</a> built with <a  href="https://www.gatsbyjs.org/"  target="_blank">Gatsby</a> and hosted with <a  href="https://www.netlify.com/"  target="_blank">Netlify</a>
+Customized portfolio website, starting from the codebase of <a  href="https://github.com/bchiang7/v4"  target="_blank">brittanychiang</a> built with <a  href="https://www.gatsbyjs.org/"  target="_blank">Gatsby</a> and hosted with <a  href="https://www.netlify.com/"  target="_blank">Netlify</a>
 
 </p>
 
@@ -14,7 +14,7 @@ Customized portfolio website, starting from the codebase of <a  href="https://br
 
 </p>
 
-![demo](https://raw.githubusercontent.com/reidemeister94/reidemeister.github.io/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/reidemeister94/personal-portfolio/main/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
