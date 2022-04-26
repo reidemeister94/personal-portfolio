@@ -130,9 +130,8 @@ const About = () => {
               <a href="https://www2.deloitte.com/it/it/pages/technology/solutions/emea-csf/deloitte-digital-csf.html">
                 consulting company
               </a>{' '}
-              as software developer, <a href="https://www.polimi.it/">an academic institution</a> as
-              research fellow, and <a href="https://www.jobtome.com/">a product company</a> as data
-              scientist.
+              as software developer, at <a href="https://www.polimi.it/">an academic institution</a> as
+              a research fellow, and at <a href="https://www.jobtome.com/">a product company</a> as a software engineer.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
