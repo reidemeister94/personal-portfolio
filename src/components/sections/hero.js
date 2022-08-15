@@ -60,16 +60,16 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Silvio Pavanetto,</h2>;
-  const three = <h3 className="big-heading">I try to build things with data.</h3>;
+  const three = <h3 className="big-heading">I build things with data.</h3>;
   const four = (
     <>
       <p>
         I'm a software engineer with a particular passion for data science and machine learning
-        related projects. Currently, I'm trying to improve{' '}
+        related projects. Currently, I work at {' '}
         <a href="https://weare.jobtome.com" target="_blank" rel="noreferrer">
           Jobtome
         </a>{' '}
-        products through the use of a data-driven approach and machine learning techniques .
+        on projects related to optimizing the ingestion and analysis of millions of job data per day.
       </p>
     </>
   );
