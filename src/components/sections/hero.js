@@ -60,12 +60,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Silvio Pavanetto,</h2>;
-  const three = <h3 className="big-heading">I build things with data.</h3>;
+  // const three = <h3 className="big-heading">I build things with data.</h3>;
   const four = (
     <>
       <p>
-        I'm a software engineer with a particular passion for data science and machine learning
-        related projects. Currently, I work at {' '}
+        I'm a software engineer with a particular passion for basketball and logic riddles. Currently, I work at {' '}
         <a href="https://weare.jobtome.com" target="_blank" rel="noreferrer">
           Jobtome
         </a>{' '}
@@ -74,7 +73,7 @@ const Hero = () => {
     </>
   );
 
-  const items = [one, two, three, four];
+  const items = [one, two, four];
 
   return (
     <StyledHeroSection>
