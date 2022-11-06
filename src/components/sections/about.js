@@ -110,7 +110,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Tensorflow', 'Keras', 'Pandas', 'Numpy', 'Scikit-Learn'];
+  const skills = ['Python', 'Apache Beam', 'Fast API', 'Apache Airflow', 'Docker', 'Pandas', 'Numpy', 'Scikit-Learn', 'Tensorflow'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -120,11 +120,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Silvio and I work as a software engineer with a special focus on data
-              science and machine learning related projects. I got my master's degree in Computer
-              Science with honors in 2019 at Politecnico di Milano.
+            Hi, my name is Silvio Pavanetto, I'm 28 and I'm from Italy!
+            I studied computer engineering at the Politecnico di Milano and now I have been working as a software engineer for about 3 years.
+            I love math and logic problems, listening to all kinds of music and playing basketball (I have been playing it at a competitive level since I was 8 years old)
             </p>
-
             <p>
               In these 3 years after the graduation, I worked at a{' '}
               <a href="https://www2.deloitte.com/it/it/pages/technology/solutions/emea-csf/deloitte-digital-csf.html">
