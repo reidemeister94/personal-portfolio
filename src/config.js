@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/silvio-pavanetto-816869118/',
+      url: 'https://www.linkedin.com/in/silvio-pavanetto',
     },
   ],
 
